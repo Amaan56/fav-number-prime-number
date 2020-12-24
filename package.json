@@ -1,0 +1,24 @@
+{
+  "name": "fav-number-prime-number",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amaan56/fav-number-prime-number.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amaan56/fav-number-prime-number/issues"
+  },
+  "homepage": "https://github.com/Amaan56/fav-number-prime-number#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "i": "^0.3.6",
+    "readline-sync": "^1.4.10"
+  }
+}
